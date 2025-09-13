@@ -66,5 +66,12 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+
+<img width="1142" height="590" alt="Screenshot 2025-09-12 211607" src="https://github.com/user-attachments/assets/8275f570-1561-4ca4-a043-c5c75437faea" />
+
 ## Output
+
+<img width="1915" height="920" alt="Screenshot 2025-09-12 211205" src="https://github.com/user-attachments/assets/2289a14e-3263-4f9b-aeb5-e1789b6161db" />
+
 ## Result
+Thus, The full wave rectifier controlled by thyristors is designed and simulated using MATLAB Simulink
